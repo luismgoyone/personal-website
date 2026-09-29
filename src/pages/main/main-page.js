@@ -5,7 +5,6 @@ import Sidebar from "../../components/Sidebar/sidebar";
 import About from "../../sections/about/about";
 import AboutPartTwo from "../../sections/about/about-part-2";
 import { aboutContentsOne, aboutContentsTwo } from "../../sections/about/Data";
-import Contact from "../../sections/contact/contact";
 import Home from "../../sections/home/home";
 import Projects from "../../sections/projects/projects";
 
