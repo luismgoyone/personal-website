@@ -1,7 +1,6 @@
 import React from "react";
 import myImage from "../../images/TempLogo2.png";
 import { FaFacebook, FaInstagram, FaTwitter, FaLinkedin } from "react-icons/fa";
-import { AiOutlineMail } from "react-icons/ai";
 import {
   FooterContainer,
   FooterWrap,
